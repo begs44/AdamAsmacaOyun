@@ -16,12 +16,12 @@ Java Swing kullanılarak geliştirilmiş, şifre korumalı, skor ve log kayıt s
 
 >
 > 
-> * **Oyun Ekranı:<img width="983" height="735" alt="image" src="https://github.com/user-attachments/assets/bf91f571-9177-425e-9f14-2f768ceddbdf" />
-** Oyundan bir an.
+> * **Oyun Ekranı: Oyundan bir an <img width="983" height="735" alt="image" src="https://github.com/user-attachments/assets/bf91f571-9177-425e-9f14-2f768ceddbdf" />
+
 > * 
 > * **Skorlar & Loglar:** Tabloların bulunduğu sekmeler.
 > * <img width="973" height="742" alt="image" src="https://github.com/user-attachments/assets/e3533d6d-007f-44ca-97a8-f426865e3dd1" />
-<img width="985" height="732" alt="image" src="https://github.com/user-attachments/assets/5efd502c-8daa-4368-bcae-0125418030cf" />
+    <img width="985" height="732" alt="image" src="https://github.com/user-attachments/assets/5efd502c-8daa-4368-bcae-0125418030cf" />
 
 
 
